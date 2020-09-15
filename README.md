@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Nikita, a novice Android developer 🧑‍💻👋
 
-<!--
-**po4yka/po4yka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My programming stats 📈
 
-Here are some ideas to get you started:
+<details>
+  <summary>GitHub stats</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=po4yka&show_icons=true" />
+  </p>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>WakaTime stats</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@po4yka/a7a61374-ad2a-4e14-b877-0a379067581d.svg" />   
+  </p>
+  <p align="center">
+    <img src="https://wakatime.com/share/@po4yka/b83056df-9c6b-4f87-98f8-936169ea3e0f.svg" height="500" />      
+  </p>
+  <p align="center">
+    <img src="https://wakatime.com/share/@po4yka/57ba54d4-c885-465c-bb1c-b865e099960d.svg" height="500" />      
+  </p>
+</details>
