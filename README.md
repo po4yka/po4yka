@@ -12,7 +12,7 @@
 <details>
   <summary>WakaTime stats</summary>
   <details>
-    <summary>Languages over last 30 Days</summary>
+    <p><summary>Languages over last 30 Days</summary></p>
     <p align="center">
       <img src="https://wakatime.com/share/@po4yka/a7a61374-ad2a-4e14-b877-0a379067581d.svg" />   
     </p>
