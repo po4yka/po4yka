@@ -11,9 +11,12 @@
 
 <details>
   <summary>WakaTime stats</summary>
-  <p align="center">
-    <img src="https://wakatime.com/share/@po4yka/a7a61374-ad2a-4e14-b877-0a379067581d.svg" />   
-  </p>
+  <details>
+    <summary>Languages over last 30 Days</summary>
+    <p align="center">
+      <img src="https://wakatime.com/share/@po4yka/a7a61374-ad2a-4e14-b877-0a379067581d.svg" />   
+    </p>
+  </details>
   <p align="center">
     <img src="https://wakatime.com/share/@po4yka/b83056df-9c6b-4f87-98f8-936169ea3e0f.svg" height="500" />      
   </p>
