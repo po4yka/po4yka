@@ -1,4 +1,4 @@
-## Hi there, I'm Nikita, a novice Android developer 👨‍💻👋
+## Hi there, I'm Nikita, a Junior Android developer 👨‍💻👋
 
 ### My programming stats 📈
 
