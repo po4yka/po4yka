@@ -22,7 +22,7 @@ val dev = developer {
 <details>
   <summary>GitHub stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=po4yka&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=po4yka&show_icons=true&theme=dark" />
   </p>
 </details>
 
@@ -38,6 +38,6 @@ val dev = developer {
 <details>
   <p><summary>Editors over All Time</summary></p>
   <p align="center">
-    <img src="https://wakatime.com/share/@po4yka/d08c7260-c867-4188-ae6c-64efa8181472.svg" />   
+    <img src="https://wakatime.com/share/@po4yka/d08c7260-c867-4188-ae6c-64efa8181472.svg" height="500" />   
   </p>
 </details>
