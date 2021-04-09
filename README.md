@@ -36,8 +36,8 @@ val dev = developer {
 </details>
 
 <details>
-  <p><summary>Editors over All Time</summary></p>
+  <p><summary>Coding Activity over Last 30 Days</summary></p>
   <p align="center">
-    <img src="https://wakatime.com/share/@po4yka/d08c7260-c867-4188-ae6c-64efa8181472.svg" height="500" />   
+    <img src="https://wakatime.com/share/@po4yka/d6e34971-8dc3-4824-9f18-9353e27ef9dc.svg" height="500" />   
   </p>
 </details>
