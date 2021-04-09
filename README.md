@@ -4,7 +4,7 @@
 val dev = developer {
   about {
     name = "Nikita"
-    compony = "Mail.ru, VK"
+    company = "Mail.ru, VK"
     position = "Junior Android Developer"
   }
   tech("Kotlin", "Android", "Java", "Jetpack", "Java")
