@@ -7,7 +7,7 @@ val dev = developer {
     company = "Mail.ru, VK"
     position = "Junior Android Developer"
   }
-  tech("Kotlin", "Android", "Java", "Jetpack", "Java")
+  tech("Kotlin", "Android SDK", "Java", "Jetpack Compose")
   education {
     university = "ETU 'LETI'"
     degree = "bachelor"
