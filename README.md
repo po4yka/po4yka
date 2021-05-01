@@ -1,20 +1,26 @@
 ## Hi there, I'm Nikita, a Junior Android developer 👨‍💻👋
 
 ```kotlin
-val dev = developer {
-  about {
-    name = "Nikita"
-    company = "Mail.ru, VK"
-    position = "Junior Android Developer"
-  }
-  tech("Kotlin", "Android SDK", "Java", "Jetpack Compose")
-  education {
-    university = "ETU 'LETI'"
-    degree = "bachelor"
-    educationProgram = "Software Engineering"
-    startDate = 2018
-    endDate = 2022
-  }
+fun main() {
+    val dev = Developer(
+        About(
+            name = "Nikita",
+            company = "Mail.ru, VK",
+            position = "Junior Android Developer"
+        ),
+        Tech("Kotlin", "Android SDK", "Java", "Jetpack Compose"),
+        Education(
+            university = "ETU 'LETI'",
+            degree = "bachelor",
+            educationProgram = "Software Engineering",
+            startDate = 2018,
+            endDate = 2022
+        )
+    )
+
+    while (dev.isAlive) {
+        dev.code()
+    }
 }
 ```
 
@@ -39,12 +45,5 @@ val dev = developer {
   <p><summary>Languages over All Time</summary></p>
   <p align="center">
     <img src="https://wakatime.com/share/@po4yka/71ebadb2-becc-4aa6-ba48-99438bee61f1.svg" height="500" />      
-  </p>
-</details>
-
-<details>
-  <p><summary>Coding Activity over Last 30 Days</summary></p>
-  <p align="center">
-    <img src="https://wakatime.com/share/@po4yka/d6e34971-8dc3-4824-9f18-9353e27ef9dc.svg" height="500" />   
   </p>
 </details>
