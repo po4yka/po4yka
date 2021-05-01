@@ -37,7 +37,7 @@ while (dev.isAlive) {
   </p>
 </details>
 
-#### WakaTime stats
+### WakaTime stats
 
 <details>
   <p><summary>Languages over All Time</summary></p>
