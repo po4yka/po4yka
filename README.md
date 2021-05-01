@@ -1,26 +1,24 @@
 ## Hi there, I'm Nikita, a Junior Android developer 👨‍💻👋
 
 ```kotlin
-fun main() {
-    val dev = Developer(
-        About(
-            name = "Nikita",
-            company = "Mail.ru, VK",
-            position = "Junior Android Developer"
-        ),
-        Tech("Kotlin", "Android SDK", "Java", "Jetpack Compose"),
-        Education(
-            university = "ETU 'LETI'",
-            degree = "bachelor",
-            educationProgram = "Software Engineering",
-            startDate = 2018,
-            endDate = 2022
-        )
+val dev = Developer(
+    About(
+        name = "Nikita",
+        company = "Mail.ru, VK",
+        position = "Junior Android Developer"
+    ),
+    Tech("Kotlin", "Android SDK", "Java", "Jetpack Compose"),
+    Education(
+        university = "ETU 'LETI'",
+        degree = "bachelor",
+        educationProgram = "Software Engineering",
+        startDate = 2018,
+        endDate = 2022
     )
+)
 
-    while (dev.isAlive) {
-        dev.code()
-    }
+while (dev.isAlive) {
+    dev.code()
 }
 ```
 
