@@ -4,7 +4,7 @@
 val dev = Developer(
     About(
         name = "Nikita",
-        company = "Mail.ru, VK",
+        company = "VK",
         position = "Junior Android Developer"
     ),
     Tech("Kotlin", "Android SDK", "Java", "Jetpack Compose"),
