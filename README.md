@@ -24,9 +24,9 @@ while (dev.isAlive) {
 
 ### Contact me
 
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=29e9ea)](https://t.me/po4yka)
-[![GMail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:pochaev.nik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-black.svg?&style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/nikita-pochaev-415b5a1a1)
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=29e9ea)](https://t.me/po4yka)
+[![GMail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:pochaev.nik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-white.svg?&style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/nikita-pochaev-415b5a1a1)
 
 ### My GitHub stats 📈
 
