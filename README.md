@@ -1,13 +1,18 @@
-## Hi there, I'm Nikita, a Junior Android developer 👨‍💻👋
+<h1 align="center">
+Hi there, I'm Nikita 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h3 align="center">Mobile Developer and Computer science student👨‍💻</h3>
 
 ```kotlin
 val dev = Developer(
     About(
         name = "Nikita",
         company = "VK",
-        position = "Junior Android Developer"
+        position = "Android Developer"
     ),
-    Tech("Kotlin", "Android SDK", "Java", "Jetpack Compose"),
+    Skills("Kotlin", "Android SDK", "Java", "Jetpack Compose", "Android Jetpack"),
+    Interests("KMM", "Multiplatform", "Computer Vision (CV)"),
     Education(
         university = "ETU 'LETI'",
         degree = "bachelor",
@@ -40,8 +45,6 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <details>
-  <p><summary>Languages over All Time</summary></p>
-  <p align="center">
-    <img src="https://wakatime.com/share/@po4yka/71ebadb2-becc-4aa6-ba48-99438bee61f1.svg" height="500" />      
-  </p>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
