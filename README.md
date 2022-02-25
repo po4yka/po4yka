@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C260%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C268%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -90,16 +90,16 @@ Sunday       146 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   34 hrs 46 mins      ███████████████████░░░░░░   77.44% 
-Java                     3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
-XML                      2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.28% 
-Markdown                 1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
-JavaScript               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
+Kotlin                   32 hrs 56 mins      ████████████████████░░░░░   80.31% 
+Java                     2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
+XML                      2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.19% 
+Markdown                 59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
+JavaScript               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
 
 🔥 Editors: 
-Android Studio           41 hrs 17 mins      ███████████████████████░░   91.95% 
-VS Code                  3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-WebStorm                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
+Android Studio           38 hrs 11 mins      ███████████████████████░░   93.09% 
+VS Code                  2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
+WebStorm                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
 
 ```
 
@@ -116,7 +116,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2022 07:13:44 UTC
+ Last Updated on 25/02/2022 07:14:15 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
