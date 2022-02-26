@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C268%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -90,15 +90,15 @@ Sunday       146 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   32 hrs 56 mins      ████████████████████░░░░░   80.31% 
-Java                     2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
-XML                      2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.19% 
-Markdown                 59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
-JavaScript               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
+Kotlin                   36 hrs 33 mins      ██████████████████████░░░   89.62% 
+XML                      1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
+Markdown                 59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43% 
+JavaScript               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
+Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
 
 🔥 Editors: 
-Android Studio           38 hrs 11 mins      ███████████████████████░░   93.09% 
-VS Code                  2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
+Android Studio           38 hrs 12 mins      ███████████████████████░░   93.64% 
+VS Code                  2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
 WebStorm                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
 
 ```
@@ -116,7 +116,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2022 07:14:15 UTC
+ Last Updated on 26/02/2022 07:13:15 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
