@@ -45,6 +45,8 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C432%20hrs%2055%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -88,15 +90,15 @@ Sunday       163 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   44 hrs 59 mins      █████████████████░░░░░░░░   68.09% 
-XML                      15 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   23.46% 
-Markdown                 1 hr 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
-C                        1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
-Bash                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
+Kotlin                   44 hrs 17 mins      ██████████████████░░░░░░░   72.45% 
+XML                      12 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85% 
+Markdown                 1 hr 52 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
+C                        1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
+Bash                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
 🔥 Editors: 
-Android Studio           61 hrs 10 mins      ███████████████████████░░   92.57% 
-VS Code                  4 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.43%
+Android Studio           57 hrs 2 mins       ███████████████████████░░   93.29% 
+VS Code                  4 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
 
 ```
 
@@ -113,7 +115,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2022 23:14:32 UTC
+ Last Updated on 22/03/2022 07:14:48 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
