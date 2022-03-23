@@ -45,15 +45,13 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C441%20hrs%201%20min-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 225 Contributions in the Year 2022
+> 🏆 228 Contributions in the Year 2022
  > 
-> 📦 907.8 kB Used in GitHub's Storage 
+> 📦 934.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,10 +73,10 @@ while (dev.isAlive) {
 ```text
 Monday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
 Tuesday      72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-Wednesday    101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
+Wednesday    104 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.81% 
 Thursday     69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.49% 
 Friday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
-Saturday     108 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
+Saturday     105 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.96% 
 Sunday       163 commits    ██████░░░░░░░░░░░░░░░░░░░   24.77%
 
 ```
@@ -115,7 +113,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2022 07:17:11 UTC
+ Last Updated on 23/03/2022 23:14:34 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
