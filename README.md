@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C721%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -90,15 +90,15 @@ Sunday       163 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   10 hrs 49 mins      ██████████████████░░░░░░░   74.5% 
-Java                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-XML                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Prolog                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
-Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
+Kotlin                   9 hrs 15 mins       █████████████████░░░░░░░░   71.45% 
+Java                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
+XML                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
+Prolog                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
+Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
 🔥 Editors: 
-Android Studio           14 hrs 31 mins      █████████████████████████   99.97% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Android Studio           12 hrs 57 mins      █████████████████████████   99.96% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 ```
 
@@ -115,7 +115,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 23:16:22 UTC
+ Last Updated on 08/05/2022 07:14:06 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
