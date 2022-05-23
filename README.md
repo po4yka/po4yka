@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C772%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -90,15 +90,15 @@ Sunday       168 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   19 hrs 4 mins       █████████████████░░░░░░░░   68.0% 
-Java                     6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   22.61% 
-XML                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
-Text                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
-GitIgnore file           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
+Kotlin                   17 hrs 33 mins      ████████████████░░░░░░░░░   66.18% 
+Java                     6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92% 
+XML                      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
+Text                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+GitIgnore file           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
 🔥 Editors: 
-Android Studio           27 hrs 4 mins       ████████████████████████░   96.47% 
-VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
+Android Studio           25 hrs 31 mins      ████████████████████████░   96.26% 
+VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
 
 ```
 
@@ -115,7 +115,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2022 23:17:16 UTC
+ Last Updated on 23/05/2022 07:20:59 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
