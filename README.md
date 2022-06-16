@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C857%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -90,15 +90,15 @@ Sunday       148 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   20 hrs 48 mins      █████████████████░░░░░░░░   68.77% 
-XML                      4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Java                     3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-TOML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.31% 
-Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+Kotlin                   21 hrs 10 mins      ██████████████████░░░░░░░   72.42% 
+XML                      4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
+TOML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
+Java                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.93% 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 🔥 Editors: 
-Android Studio           30 hrs 4 mins       ████████████████████████░   99.38% 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+Android Studio           29 hrs 3 mins       ████████████████████████░   99.36% 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 
 ```
 
@@ -115,7 +115,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2022 23:16:34 UTC
+ Last Updated on 16/06/2022 07:20:36 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
