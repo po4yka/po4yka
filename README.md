@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C946%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C947%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -90,10 +90,11 @@ Sunday       148 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Kotlin                   20 mins             ████████████████████████░   99.27% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 🔥 Editors: 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Android Studio           21 mins             █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +111,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2022 07:20:33 UTC
+ Last Updated on 06/08/2022 07:16:42 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
