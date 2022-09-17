@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C144%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C153%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -90,15 +90,15 @@ Sunday       147 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   26 hrs 24 mins      █████████████████░░░░░░░░   71.19% 
-Java                     4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-HTML                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
-XML                      2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-TOML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+Kotlin                   30 hrs 23 mins      ██████████████████░░░░░░░   72.63% 
+Java                     4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
+XML                      2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
+HTML                     2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
+TOML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
 
 🔥 Editors: 
-Android Studio           32 hrs 53 mins      ██████████████████████░░░   88.68% 
-VS Code                  4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.32%
+Android Studio           37 hrs 54 mins      ██████████████████████░░░   90.59% 
+VS Code                  3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.41%
 
 ```
 
@@ -115,7 +115,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2022 23:16:10 UTC
+ Last Updated on 17/09/2022 07:22:37 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
