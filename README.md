@@ -1,8 +1,6 @@
 <h1 align="center">
-Hi there, I'm Nikita 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+Hi there, I'm Nikita✌️
 </h1>
-<h3 align="center">Mobile Developer and Computer science student👨‍💻</h3>
 
 ```kotlin
 val dev = Developer(
@@ -11,14 +9,16 @@ val dev = Developer(
         company = "VK",
         position = "Android Developer"
     ),
-    Skills("Kotlin", "Android SDK", "Java", "Jetpack Compose", "Android Jetpack"),
-    Interests("KMM", "Multiplatform", "Computer Vision (CV)"),
+    Skills("Kotlin", "Java", "Android SDK", "Jetpack Compose", "Flutter", "KMM"),
+    AndroidFrameworks("Retrofit 2", "Dagger 2", "Hilt", "RxJava 2", "Picasso", "Kotlin Coroutines"),
+    Interests("Multiplatform development", "iOS development", "Clean Architecture"),
     Education(
         university = "ETU 'LETI'",
         degree = "bachelor",
         educationProgram = "Software Engineering",
         startDate = 2018,
-        endDate = 2022
+        endDate = 2022,
+        honoursDegree = True
     )
 )
 
