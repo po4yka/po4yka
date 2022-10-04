@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C220%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C227%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -90,15 +90,15 @@ Sunday       148 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   22 hrs 47 mins      ███████████████░░░░░░░░░░   61.91% 
-XML                      11 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   30.88% 
-Java                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
-HTML                     1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+Kotlin                   19 hrs 50 mins      █████████████░░░░░░░░░░░░   55.32% 
+XML                      13 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   37.05% 
+HTML                     1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
+JSON                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
+Java                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 🔥 Editors: 
-Android Studio           34 hrs 45 mins      ███████████████████████░░   94.41% 
-VS Code                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
+Android Studio           31 hrs 58 mins      ██████████████████████░░░   89.12% 
+VS Code                  3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.88%
 
 ```
 
@@ -115,7 +115,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2022 23:20:20 UTC
+ Last Updated on 04/10/2022 07:34:12 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
