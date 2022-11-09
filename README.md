@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C355%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C355%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -61,47 +61,6 @@ while (dev.isAlive) {
  > 
 > 🔑 8 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
-🌆 Daytime    219 commits    ██████████░░░░░░░░░░░░░░░   42.69% 
-🌃 Evening    173 commits    ████████░░░░░░░░░░░░░░░░░   33.72% 
-🌙 Night      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.38%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Wednesday    85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
-Thursday     63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
-Friday       38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
-Saturday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Sunday       148 commits    ███████░░░░░░░░░░░░░░░░░░   28.85%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Kotlin                   20 hrs 44 mins      ███████████████████████░░   92.93% 
-Java                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
-XML                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57% 
-Properties               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
-
-🔥 Editors: 
-Android Studio           21 hrs 39 mins      ████████████████████████░   97.09% 
-VS Code                  39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -115,7 +74,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 07:19:51 UTC
+ Last Updated on 09/11/2022 23:15:28 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
