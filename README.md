@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C375%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C377%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179%20Thousand%20lines%20of%20code-blue)
 
@@ -90,11 +90,13 @@ Sunday       126 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               13 mins             ████████████████████████░   98.72% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
+Markdown                 1 hr 42 mins        █████████████████████░░░░   86.7% 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+VS Code                  1 hr 57 mins        █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +113,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2022 23:13:30 UTC
+ Last Updated on 28/11/2022 07:13:19 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
