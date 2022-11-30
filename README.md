@@ -90,13 +90,11 @@ Sunday       126 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Markdown                 1 hr 42 mins        █████████████████████░░░░   86.7% 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Markdown                 1 hr 42 mins        ████████████████████████░   98.04% 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.0%
+VS Code                  1 hr 44 mins        █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +111,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 23:15:33 UTC
+ Last Updated on 30/11/2022 07:15:13 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
