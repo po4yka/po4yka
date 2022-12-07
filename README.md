@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C385%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C387%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179%20Thousand%20lines%20of%20code-blue)
 
@@ -90,15 +90,15 @@ Sunday       126 commits    █████████░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 53 mins       ███████████████░░░░░░░░░░   63.39% 
-Markdown                 2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.8% 
-XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
-Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+Kotlin                   6 hrs 13 mins       ████████████████░░░░░░░░░   67.15% 
+Markdown                 2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01% 
+XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
+Java                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 🔥 Editors: 
-Android Studio           5 hrs 20 mins       █████████████████░░░░░░░░   69.26% 
-VS Code                  2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   30.74%
+Android Studio           6 hrs 53 mins       ██████████████████░░░░░░░   74.37% 
+VS Code                  2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63%
 
 ```
 
@@ -115,7 +115,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2022 23:12:57 UTC
+ Last Updated on 07/12/2022 07:12:09 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
