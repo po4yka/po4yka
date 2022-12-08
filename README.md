@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C386%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C390%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179%20Thousand%20lines%20of%20code-blue)
 
@@ -90,15 +90,15 @@ Sunday       126 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 13 mins       ████████████████░░░░░░░░░   67.15% 
-Markdown                 2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01% 
-XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
-Java                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+Kotlin                   8 hrs 51 mins       █████████████████░░░░░░░░   69.21% 
+Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
+XML                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
+Java                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
 
 🔥 Editors: 
-Android Studio           6 hrs 53 mins       ██████████████████░░░░░░░   74.37% 
-VS Code                  2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63%
+Android Studio           10 hrs 25 mins      ████████████████████░░░░░   81.45% 
+VS Code                  2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.55%
 
 ```
 
@@ -115,7 +115,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2022 23:15:13 UTC
+ Last Updated on 08/12/2022 07:14:48 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
