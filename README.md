@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C397%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C399%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179%20Thousand%20lines%20of%20code-blue)
 
@@ -90,15 +90,15 @@ Sunday       126 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   12 hrs 45 mins      ███████████████████░░░░░░   76.85% 
-Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-XML                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
-YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
-Java                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
+Kotlin                   12 hrs 13 mins      ███████████████████░░░░░░   79.06% 
+XML                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
+HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.67% 
+Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
 
 🔥 Editors: 
-Android Studio           14 hrs 30 mins      █████████████████████░░░░   87.33% 
-VS Code                  2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67%
+Android Studio           13 hrs 58 mins      ██████████████████████░░░   90.3% 
+VS Code                  1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.7%
 
 ```
 
@@ -115,7 +115,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2022 23:11:57 UTC
+ Last Updated on 12/12/2022 07:13:41 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
