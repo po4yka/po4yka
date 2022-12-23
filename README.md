@@ -6,10 +6,10 @@ Hi there, I'm Nikita✌️
 val dev = Developer(
     About(
         name = "Nikita",
-        company = "VK",
-        position = "Android Developer"
+        company = "Garage IT",
+        position = "Android Developer - core team member"
     ),
-    Skills("Kotlin", "Java", "Android SDK", "Jetpack Compose", "Flutter", "KMM"),
+    Skills("Kotlin", "Java", "Android SDK", "Jetpack Compose", "KMM"),
     AndroidFrameworks("Retrofit 2", "Dagger 2", "Hilt", "RxJava 2", "Picasso", "Kotlin Coroutines"),
     Interests("Multiplatform development", "iOS development", "Clean Architecture"),
     Education(
