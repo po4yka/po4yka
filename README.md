@@ -51,7 +51,7 @@ while (dev.isAlive) {
 
 **🐱 My GitHub Data** 
 
-> 🏆 229 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 955.5 kB Used in GitHub's Storage 
  > 
@@ -61,46 +61,6 @@ while (dev.isAlive) {
  > 
 > 🔑 5 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-🌆 Daytime    170 commits    █████████████░░░░░░░░░░░░   51.99% 
-🌃 Evening    89 commits     ██████░░░░░░░░░░░░░░░░░░░   27.22% 
-🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-Tuesday      36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
-Wednesday    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
-Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
-Friday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
-Saturday     51 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-Sunday       107 commits    ████████░░░░░░░░░░░░░░░░░   32.72%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Kotlin                   17 hrs 59 mins      █████████████████░░░░░░░░   70.77% 
-TOML                     3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-XML                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
-Gradle                   50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32% 
-Groovy                   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
-
-🔥 Editors: 
-Android Studio           25 hrs 25 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -114,7 +74,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 23:12:46 UTC
+ Last Updated on 02/01/2023 23:14:02 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
