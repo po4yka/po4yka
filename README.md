@@ -90,14 +90,10 @@ Sunday       107 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   1 hr 26 mins        ██████████████████░░░░░░░   74.27% 
-Gradle                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
-TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -114,7 +110,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2023 23:12:07 UTC
+ Last Updated on 07/01/2023 07:10:45 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
