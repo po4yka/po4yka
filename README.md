@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C484%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C489%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179%20Thousand%20lines%20of%20code-blue)
 
@@ -90,10 +90,13 @@ Sunday       107 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   4 hrs 34 mins       ████████████████████████░   95.63% 
+XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
+Gradle                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
+Groovy                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           4 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +113,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2023 23:13:46 UTC
+ Last Updated on 10/01/2023 07:13:31 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
