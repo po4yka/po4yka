@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C581%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C584%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179%20Thousand%20lines%20of%20code-blue)
 
@@ -90,16 +90,16 @@ Sunday       107 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   11 hrs 33 mins      ███████████░░░░░░░░░░░░░░   46.86% 
-sh                       7 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   30.55% 
-TOML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
-Properties               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
+Kotlin                   10 hrs 54 mins      ████████████░░░░░░░░░░░░░   47.55% 
+sh                       6 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   27.2% 
+TOML                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
+Properties               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
 
 🔥 Editors: 
-Android Studio           16 hrs 48 mins      █████████████████░░░░░░░░   68.16% 
-Zsh                      7 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   30.55% 
-VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
+Android Studio           16 hrs 22 mins      █████████████████░░░░░░░░   71.41% 
+Zsh                      6 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   27.2% 
+VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
 
 ```
 
@@ -116,7 +116,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2023 23:14:22 UTC
+ Last Updated on 04/02/2023 07:11:02 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
