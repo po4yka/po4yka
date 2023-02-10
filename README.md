@@ -45,7 +45,7 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C604%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C604%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179%20Thousand%20lines%20of%20code-blue)
 
@@ -90,16 +90,16 @@ Sunday         104 commits       ████████░░░░░░░�
 ⌚︎ Time Zone: Asia/Tbilisi
 
 💬 Programming Languages: 
-Kotlin                   7 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.73 % 
-Other                    3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-YAML                     3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-sh                       3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Kotlin                   5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+YAML                     4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Other                    3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.51 % 
+sh                       3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+textmate                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-Android Studio           12 hrs 40 mins      ███████████████░░░░░░░░░░   61.01 % 
-VS Code                  4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Zsh                      3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Android Studio           12 hrs 22 mins      ██████████████░░░░░░░░░░░   58.60 % 
+VS Code                  5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Zsh                      3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
 
 ```
 
@@ -116,7 +116,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2023 07:12:48 UTC
+ Last Updated on 10/02/2023 23:14:08 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
