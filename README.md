@@ -45,9 +45,9 @@ while (dev.isAlive) {
 ### WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C614%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C613%20hrs%2026%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--778%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,16 +90,16 @@ Sunday         104 commits       ████████░░░░░░░�
 ⌚︎ Time Zone: Asia/Tbilisi
 
 💬 Programming Languages: 
-YAML                     4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.46 % 
-Other                    2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Kotlin                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-sh                       1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-textmate                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+YAML                     4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Other                    3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Kotlin                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+sh                       1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+textmate                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 🔥 Editors: 
-Android Studio           8 hrs 48 mins       ███████████████░░░░░░░░░░   62.93 % 
-VS Code                  3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-Zsh                      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Android Studio           8 hrs 27 mins       ██████████████░░░░░░░░░░░   58.64 % 
+VS Code                  4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Zsh                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 
 ```
 
@@ -116,7 +116,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 07:12:50 UTC
+ Last Updated on 16/02/2023 23:10:03 UTC
 <!--END_SECTION:waka-->
 
 > Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
