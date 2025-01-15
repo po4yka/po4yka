@@ -7,7 +7,7 @@ val dev = Developer(
     About(
         name = "Nikita",
         company = "Garage IT",
-        position = "Android Developer - core team member"
+        position = "Senior Android Developer - core team member"
     ),
     PreviousExperience(
         startDate = Date(year = 2021, month = 3),
@@ -15,9 +15,8 @@ val dev = Developer(
         company = "VK",
         position = "Android Developer"
     ),
-    Skills("Kotlin", "Java", "Android SDK", "Jetpack Compose", "KMM"),
-    AndroidFrameworks("Retrofit 2", "Dagger 2", "Hilt", "RxJava 2", "Jetpack Compose", "Kotlin Coroutines"),
-    Interests("Multiplatform development", "Clean Architecture"),
+    Skills("Kotlin", "Java", "Android SDK", "Jetpack Compose", "KMP", "MobileOps", "CI/CD"),
+    Interests("Multiplatform development", "Clean Architecture", "Optimization of release processes"),
     Education(
         university = "ETU 'LETI'",
         degree = "bachelor",
