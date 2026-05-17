@@ -4,9 +4,7 @@ $ whois po4yka
 [01] NAME ........: Nikita Pochaev
 [02] HANDLE ......: @po4yka  (he/him)
 [03] ROLE ........: AI Engineer / Senior Android Developer
-[04] COMPANY .....: Garage IT
-[05] LOCATION ....: Tbilisi, Georgia
-[06] UPDATED .....: 2026-05
+[04] UPDATED .....: 2026-05
 
 OK   · multi-agent systems · self-hosted LLM infra · agent platform decisions
 OK   · android · kotlin multiplatform · mobileops · ci/cd
@@ -25,7 +23,6 @@ android ....: Jetpack Compose · Coroutines/Flow · Koin · Gradle
 ai .........: LangGraph · PydanticAI · Temporal · vLLM · MCP
 backend ....: FastAPI · Slack Bolt · Google Play API · Firebase
 infra ......: GitLab CI · Docker · Kubernetes · Helm · GKE
-tools ......: Android Studio · Claude Code · Macrobenchmark
 ```
 
 ## 02 / SELECTED WORK
