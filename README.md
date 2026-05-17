@@ -1,37 +1,42 @@
-<h1 align="center">
-Hi there, I'm Nikita✌️
-</h1>
+```text
+$ whois po4yka
 
-```kotlin
-val dev = Developer(
-    About(
-        name = "Nikita",
-        company = "Garage IT",
-        position = "Senior Android Developer - core team member"
-    ),
-    PreviousExperience(
-        startDate = Date(year = 2021, month = 3),
-        endDate = Date(year = 2022, month = 11),
-        company = "VK",
-        position = "Android Developer"
-    ),
-    Skills("Kotlin", "Java", "Android SDK", "Jetpack Compose", "KMP", "MobileOps", "CI/CD"),
-    Interests("Multiplatform development", "Clean Architecture", "Optimization of release processes"),
-    Education(
-        university = "ETU 'LETI'",
-        degree = "bachelor",
-        educationProgram = "Software Engineering",
-        startDate = 2018,
-        endDate = 2022,
-        honoursDegree = True
-    )
-)
+[01] NAME ........: Nikita Pochaev
+[02] HANDLE ......: @po4yka  (he/him)
+[03] ROLE ........: AI Engineer / Senior Android Developer
+[04] COMPANY .....: Garage IT
+[05] LOCATION ....: Tbilisi, Georgia
+[06] STATUS ......: shipping
 
-while (dev.isAlive) {
-    dev.code()
-}
+OK   · multi-agent systems · self-hosted LLM infra · agent platform decisions
+OK   · android · kotlin multiplatform · mobileops · ci/cd
+INFO · writing at po4yka.dev/blog
 ```
 
-### Contact me
+---
 
-[![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=29e9ea)](https://t.me/po4yka) [![GMail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:pochaev.nik@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin%20-white.svg?&style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/nikita-pochaev-415b5a1a1)
+## 01 / STACK
+
+```text
+languages ..: Kotlin · Python · Go · Rust · TypeScript
+android ....: Jetpack Compose · Coroutines/Flow · Koin · Gradle · KSP · R8
+ai .........: LangGraph · PydanticAI · Temporal · vLLM · Langfuse · MCP
+backend ....: FastAPI · Flask · Slack Bolt · Google Play API · Firebase
+infra ......: GitLab CI · Docker · Kubernetes · Helm · OpenTelemetry · GKE
+tools ......: Android Studio · Claude Code · Macrobenchmark · Baseline Profiles
+```
+
+## 02 / SELECTED WORK
+
+```text
+├── ripdpi           Android · local SOCKS5 proxy + adaptive DPI evasion (Kotlin/Rust)
+├── bite-size-reader KMP · article + YouTube summarization bot and mobile client
+├── agents-framework Tooling · AGENTS.md policy spec for Claude / Gemini / Codex
+├── kotlin-ci        Android · Kotlin CLI tools replacing the Fastlane/Ruby pipeline
+├── anr-watchdog     Android · Java + C++/NDK signal handler for ANR detection
+└── blog             Web · Astro 6 + React 19 islands on Cloudflare Workers + D1
+```
+
+## 03 / CONTACT
+
+[GitHub](https://github.com/po4yka) · [LinkedIn](https://www.linkedin.com/in/nikita-pochaev-415b5a1a1) · [Telegram](https://t.me/po4yka) · pochaev.nik@gmail.com
