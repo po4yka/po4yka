@@ -29,11 +29,10 @@ tools ......: Android Studio · Claude Code · Macrobenchmark · Baseline Profil
 ## 02 / SELECTED WORK
 
 ```text
+├── ratatoskr        KMP/Web/Backend · self-hosted reader + LLM summarizer
 ├── ripdpi           Android · local SOCKS5 proxy + adaptive DPI evasion (Kotlin/Rust)
-├── bite-size-reader KMP · article + YouTube summarization bot and mobile client
 ├── agents-framework Tooling · AGENTS.md policy spec for Claude / Gemini / Codex
 ├── kotlin-ci        Android · Kotlin CLI tools replacing the Fastlane/Ruby pipeline
-├── anr-watchdog     Android · Java + C++/NDK signal handler for ANR detection
 └── blog             Web · Astro 6 + React 19 islands on Cloudflare Workers + D1
 ```
 
