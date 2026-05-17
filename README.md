@@ -6,12 +6,14 @@ $ whois po4yka
 [03] ROLE ........: AI Engineer / Senior Android Developer
 [04] COMPANY .....: Garage IT
 [05] LOCATION ....: Tbilisi, Georgia
-[06] STATUS ......: shipping
+[06] UPDATED .....: 2026-05
 
 OK   · multi-agent systems · self-hosted LLM infra · agent platform decisions
 OK   · android · kotlin multiplatform · mobileops · ci/cd
 INFO · writing at po4yka.dev/blog
 ```
+
+_Writing: [po4yka.dev/blog](https://po4yka.dev/blog) — Android, KMP, MobileOps, agent infrastructure._
 
 ---
 
@@ -19,11 +21,11 @@ INFO · writing at po4yka.dev/blog
 
 ```text
 languages ..: Kotlin · Python · Go · Rust · TypeScript
-android ....: Jetpack Compose · Coroutines/Flow · Koin · Gradle · KSP · R8
-ai .........: LangGraph · PydanticAI · Temporal · vLLM · Langfuse · MCP
-backend ....: FastAPI · Flask · Slack Bolt · Google Play API · Firebase
-infra ......: GitLab CI · Docker · Kubernetes · Helm · OpenTelemetry · GKE
-tools ......: Android Studio · Claude Code · Macrobenchmark · Baseline Profiles
+android ....: Jetpack Compose · Coroutines/Flow · Koin · Gradle
+ai .........: LangGraph · PydanticAI · Temporal · vLLM · MCP
+backend ....: FastAPI · Slack Bolt · Google Play API · Firebase
+infra ......: GitLab CI · Docker · Kubernetes · Helm · GKE
+tools ......: Android Studio · Claude Code · Macrobenchmark
 ```
 
 ## 02 / SELECTED WORK
@@ -34,6 +36,8 @@ tools ......: Android Studio · Claude Code · Macrobenchmark · Baseline Profil
 ├── ripdpi    Android · local SOCKS5 proxy + adaptive DPI evasion (Kotlin/Rust)
 └── blog      Web · Astro 6 + React 19 islands on Cloudflare Workers + D1
 ```
+
+Repos: [heimdall](https://github.com/po4yka/heimdall) · [ratatoskr](https://github.com/po4yka/ratatoskr) · [RIPDPI](https://github.com/po4yka/RIPDPI) · [blog](https://github.com/po4yka/blog)
 
 ## 03 / CONTACT
 
