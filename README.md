@@ -29,12 +29,10 @@ tools ......: Android Studio · Claude Code · Macrobenchmark · Baseline Profil
 ## 02 / SELECTED WORK
 
 ```text
-├── heimdall         Rust · local-first analytics for 9 AI coding assistants
-├── ratatoskr        KMP/Web/Backend · self-hosted reader + LLM summarizer
-├── ripdpi           Android · local SOCKS5 proxy + adaptive DPI evasion (Kotlin/Rust)
-├── agents-framework Tooling · AGENTS.md policy spec for Claude / Gemini / Codex
-├── kotlin-ci        Android · Kotlin CLI tools replacing the Fastlane/Ruby pipeline
-└── blog             Web · Astro 6 + React 19 islands on Cloudflare Workers + D1
+├── heimdall  Rust · local-first analytics for 9 AI coding assistants
+├── ratatoskr KMP/Web/Backend · self-hosted reader + LLM summarizer
+├── ripdpi    Android · local SOCKS5 proxy + adaptive DPI evasion (Kotlin/Rust)
+└── blog      Web · Astro 6 + React 19 islands on Cloudflare Workers + D1
 ```
 
 ## 03 / CONTACT
