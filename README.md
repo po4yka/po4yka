@@ -39,4 +39,4 @@ tools ......: Android Studio · Claude Code · Macrobenchmark · Baseline Profil
 
 ## 03 / CONTACT
 
-[GitHub](https://github.com/po4yka) · [LinkedIn](https://www.linkedin.com/in/nikita-pochaev-415b5a1a1) · [Telegram](https://t.me/po4yka) · pochaev.nik@gmail.com
+[Telegram](https://t.me/po4yka)
